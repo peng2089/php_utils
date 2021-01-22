@@ -1,0 +1,19 @@
+{
+  "name": "woniu.me/php_utils",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "peng",
+      "email": "peng_du2007@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Utils\\": "src/utils"
+    }
+  }
+}
